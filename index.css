@@ -67,10 +67,10 @@ body {
         font-size: 20px;
     }
     .pass-el {
-        font-size: 28px
+        font-size: 26px
     }
     #divider {
-        width: 260px
+        width: 255px
     }
     .gen-pass:hover {
         transform: scale(1);
