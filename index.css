@@ -72,6 +72,7 @@ body {
         font-size: 15px
     }
     #divider {
+        margin-bottom: 40px;
         width: 265px;
         height: 2px;
     }
