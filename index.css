@@ -73,6 +73,7 @@ body {
     }
     #divider {
         width: 265px;
+        height: 2px;
     }
     .gen-pass:hover {
         transform: scale(1);
