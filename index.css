@@ -1,0 +1,63 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(199,0,255,1) 93%);
+}
+.container {
+    margin-top:  125px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border: 20px solid white;
+    border-radius: 25px;
+}
+.left-align {
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.top {
+    margin-bottom: -10px;
+    color:blue;
+    text-shadow: 1px 1px white;
+}
+.bot {
+    margin-top: -10px;
+    color: rgb(156, 31, 160);
+    text-shadow: 1px 1px white;
+}
+#smaller {
+    font-size: 25px;
+}
+.gen-pass {
+    flex: 1 1 auto;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, rgb(156, 31, 160) 0%, #270899 51%, rgb(21, 21, 161) 100%)
+}
+.gen-pass:hover {
+    cursor: pointer;
+    transform: scale(1.25);
+}
+#divider {
+    margin-top: 40px;
+    width: 600px;
+    height: 3px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+.pass-el {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
