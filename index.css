@@ -1,3 +1,4 @@
+
 body {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(199,0,255,1) 93%);
@@ -52,7 +53,7 @@ body {
 }
 #divider {
     margin-top: 40px;
-    width: 600px;
+    width: 90%;
     height: 3px;
     background-color: white;
     margin-bottom: 40px;
