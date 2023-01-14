@@ -16,7 +16,7 @@ body {
     padding: 20px;
     border: 20px solid white;
     border-radius: 25px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 .left-align {
     font-size: 40px;
@@ -66,13 +66,13 @@ body {
 }
 @media only screen and (max-width: 600px) {
     .left-align {
-        font-size: 20px;
+        font-size: 15px;
     }
     .pass-el {
         font-size: 20px
     }
     #divider {
-        width: 255px
+        width: 238px
     }
     .gen-pass:hover {
         transform: scale(1);
